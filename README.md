@@ -53,3 +53,15 @@ L’analyse met en évidence plusieurs tendances :
 - Segmentation par âge, genre, causes, symptomes et antécédents
 - Comparaison de moyennes
 - Visualisation interactive orientée décisionnel
+
+----
+## Annexes
+
+**Gestion erreurs au chargement des données : Pb de matching des colonnes**
+Le problème venait du fait que certaines colonnes de fichiers csv avaient des noms différents par rapport à ce qu'il y avait dans ma table. 
+
+<img width="952" height="753" alt="Image" src="https://github.com/user-attachments/assets/0de8d337-2f6d-475f-a983-f509e55e0bce" />
+
+**Power Query : Transformation des données**
+
+<img width="1910" height="986" alt="Image" src="https://github.com/user-attachments/assets/dbd1a844-f623-47c3-ad7b-b167cf3a35e3" />
