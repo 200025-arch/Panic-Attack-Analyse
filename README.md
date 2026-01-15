@@ -42,14 +42,14 @@ L’analyse met en évidence plusieurs tendances :
 
 **Outils :**
 
-Snowflake : stockage, ingestion, EDA (SQL)
-Power Query : nettoyage et transformation
-DAX : mesures et indicateurs
-Power BI : Visualisations
+- Snowflake : stockage, ingestion, EDA (SQL)
+- Power Query : nettoyage et transformation
+- DAX : mesures et indicateurs
+- Power BI : Visualisations
 
 **Méthodes :**
 
-Analyse exploratoire des données (EDA)
-Segmentation par âge, genre, causes, symptomes et antécédents
-Comparaison de moyennes
-Visualisation interactive orientée décisionnel
+- Analyse exploratoire des données (EDA)
+- Segmentation par âge, genre, causes, symptomes et antécédents
+- Comparaison de moyennes
+- Visualisation interactive orientée décisionnel
