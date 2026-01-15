@@ -60,7 +60,7 @@ L’analyse met en évidence plusieurs tendances :
 **Gestion erreurs au chargement des données : Pb de matching des colonnes**
 Le problème venait du fait que certaines colonnes de fichiers csv avaient des noms différents par rapport à ce qu'il y avait dans ma table. 
 
-<img width="952" height="753" alt="Image" src="https://github.com/user-attachments/assets/0de8d337-2f6d-475f-a983-f509e55e0bce" />
+<img width="1592" height="722" alt="Image" src="https://github.com/user-attachments/assets/642598a1-a30e-4426-a6a2-5fefb18b0618" />
 
 **Power Query : Transformation des données**
 
