@@ -16,6 +16,7 @@ Les données brutes (fichier CSV) ont été chargées dans **Snowflake**, qui a 
 
 <img width="1913" height="843" alt="Image" src="https://github.com/user-attachments/assets/c444d5b4-60ad-45b4-91bc-19ea44c00c92" />
 
+----
 ## ⭐ Particularités du projet :
 
 - Ingestion des données dans Snowflake
@@ -25,6 +26,7 @@ Les données brutes (fichier CSV) ont été chargées dans **Snowflake**, qui a 
 - Création de mesures DAX
 - Filtres dynamiques (genre, causes, historique médical, etc.)
 
+----
 ## 📊 Ce que montre l’analyse :
 
 L’analyse met en évidence plusieurs tendances :
@@ -34,3 +36,20 @@ L’analyse met en évidence plusieurs tendances :
 - Les patients ayant des troubles comme la phobie, l’anxiété ou le PTSD ont des crises plus fréquentes
 - Les adolescents ont, en moyenne, un score de panique plus élevé que les adultes
 - Certains symptômes comme l’essoufflement, la transpiration et les douleurs thoraciques sont particulièrement répandus chez les patients les plus affectés
+
+----
+## 🛠️ Outils & Méthodes :
+
+**Outils :**
+
+Snowflake : stockage, ingestion, EDA (SQL)
+Power Query : nettoyage et transformation
+DAX : mesures et indicateurs
+Power BI : Visualisations
+
+**Méthodes :**
+
+Analyse exploratoire des données (EDA)
+Segmentation par âge, genre, causes, symptomes et antécédents
+Comparaison de moyennes
+Visualisation interactive orientée décisionnel
