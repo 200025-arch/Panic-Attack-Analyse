@@ -62,6 +62,7 @@ Le problème venait du fait que certaines colonnes de fichiers csv avaient des n
 
 <img width="1592" height="722" alt="Image" src="https://github.com/user-attachments/assets/642598a1-a30e-4426-a6a2-5fefb18b0618" />
 
+
 **Power Query : Transformation des données**
 
 <img width="1910" height="986" alt="Image" src="https://github.com/user-attachments/assets/dbd1a844-f623-47c3-ad7b-b167cf3a35e3" />
