@@ -6,5 +6,4 @@ Les crises de panique sont souvent liées à des facteurs comme le sommeil, a ca
 - Quels profils de patients sont les plus exposés
 - Quels symptômes sont les plus fréquents
 
-<img width="1862" height="990" alt="Image" src="https://github.com/user-attachments/assets/50b44c27-e004-4e72-8973-1e41d714c67a" />
-
+<img width="1878" height="997" alt="Image" src="https://github.com/user-attachments/assets/c265f4e1-48c7-4e3b-b33f-d17f3b73bc68" />
